@@ -1,1 +1,0 @@
-pyinstaller --onefile --noconsole --icon s.ico svchost.pyw
